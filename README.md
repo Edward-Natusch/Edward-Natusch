@@ -1,5 +1,12 @@
 - 👋 Hi, I’m @Edward-Natusch
+
 - 📚 I am a final year BSc Economics with Study in Continental Europe Student @ The University of Bristol 
+- 🌐 http://www.bristol.ac.uk/study/undergraduate/2022/economics/bsc-econ-europe/
+
+- 📊 I am currently learning data visualisation and web scraping techniques as part of the Data Science course @ UoB
+- 
+
+
 - 📫 LinkedIn: https://www.linkedin.com/in/edward-natusch/
 
 <!---
