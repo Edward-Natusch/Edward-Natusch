@@ -7,7 +7,7 @@
 - ⬇️ Link to module description (University of Bristol) ⬇️
 - 🌐 https://rapidcharts.io/datascience
 
-- My programming interests also include R, having studied the Programming for Business unit as part of an Erasmus exchange @ Universidad Carlos iii de Madrid Achieving an 8.5/10 (notable) under the Spanish grading system
+- My programming interests also include R, having studied the Programming for Business unit as part of an Erasmus exchange @ Universidad Carlos iii de Madrid, achieving an 8.5/10 (notable) under the Spanish grading system
 - ⬇️ Link to module description (UC3M) ⬇️
 - 🌐 https://aplicaciones.uc3m.es/cpa/generaFicha?&est=351&plan=393&asig=17590&idioma=2
 
