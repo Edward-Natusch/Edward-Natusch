@@ -3,7 +3,7 @@
 - 📚 I am a final year BSc Economics with Study in Continental Europe Student @ University of Bristol 
 - 🌐 http://www.bristol.ac.uk/study/undergraduate/2022/economics/bsc-econ-europe/
 
-- 📊 I am currently learning data visualisation and web scraping techniques as part of the Data Science unit @ Bristol
+- 📊 I am currently learning data visualisation and web scraping techniques as part of the Data Science unit @ University of Bristol
 - ⬇️ Link to module description (University of Bristol) ⬇️
 - 🌐 https://rapidcharts.io/datascience
 
