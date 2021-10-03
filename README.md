@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Edward-Natusch
-
+- 📚 I am a final year BSc Economics with Study in Continental Europe Student @ The University of Bristol 
 - 📫 LinkedIn: https://www.linkedin.com/in/edward-natusch/
 
 <!---
