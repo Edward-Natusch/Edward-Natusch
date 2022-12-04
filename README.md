@@ -5,7 +5,7 @@
 - 📚 I studied BSc Economics with Study in Continental Europe Student @ University of Bristol 
 - 🌐 http://www.bristol.ac.uk/study/undergraduate/2022/economics/bsc-econ-europe/
 
-- 📊 I studied data visualisation and web scraping techniques as part of the Data Science unit @ University of Bristol
+- 📊 As part of the data science unit I studied data visualisation and web scraping techniques 
 - ⬇️ Link to module description (University of Bristol) ⬇️
 - 🌐 https://rapidcharts.io/datascience
 
