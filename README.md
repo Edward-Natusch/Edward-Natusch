@@ -13,8 +13,6 @@
 - ⬇️ Link to module description (UC3M) ⬇️
 - 🌐 https://aplicaciones.uc3m.es/cpa/generaFicha?&est=351&plan=393&asig=17590&idioma=2
 
-- 📫 LinkedIn: https://www.linkedin.com/in/edward-natusch/
-
 <!---
 Edward-Natusch/Edward-Natusch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
